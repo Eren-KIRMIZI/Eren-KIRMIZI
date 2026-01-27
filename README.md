@@ -3,8 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eren%20KIRMIZI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=51" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=100&lines=Building+Innovative+Solutions+%F0%9F%9A%80;Backend+%26+AI+Development+%F0%9F%A7%A0;Learning+%26+Growing+Every+Day+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
 <br/>
 

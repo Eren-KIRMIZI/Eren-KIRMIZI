@@ -16,29 +16,6 @@
 </div>
 
 <br/>
-
-<!-- About Me Section with Gradient -->
-<div align="center">
-  
-## 🎯 About Me
-
-</div>
-
-```yaml
-name: Eren KIRMIZI
-located_in: Turkey
-current_focus: Backend Development & AI
-education: Computer Science / Computer Engineering
-job_type: Student → Aspiring Professional
-interests: 
-  - Artificial Intelligence & Machine Learning
-  - Web Automation & Data Analysis
-  - Security & System Architecture
-  - Problem Solving & Algorithmic Thinking
-
-personality_traits: ["🧠 Fast Learner", "💡 Solution-Oriented", "🔧 Hands-On Builder"]
-```
-
 <div align="center">
 
 ```diff
@@ -90,52 +67,6 @@ personality_traits: ["🧠 Fast Learner", "💡 Solution-Oriented", "🔧 Hands-
 
 <br/>
 
----
-
-<br/>
-
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eren-KIRMIZI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-KIRMIZI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9"/>
 </p>
----
-
-<br/>
-
----
-
-<br/>
-
-<!-- Skills Cloud -->
-<div align="center">
-
-## 🎨 Skills & Expertise
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
----
-
-<br/>
-
-<!-- Quote Section -->
-<div align="center">
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<br/>
-
----
-
-<br/>

@@ -16,16 +16,6 @@
 </div>
 
 <br/>
-<div align="center">
-
-```diff
-+ Open to: Internships | Junior Developer Roles | Tech Collaborations
-! Currently: Building projects, expanding skillset, seeking opportunities
-```
-
-</div>
-
-<br/>
 
 ---
 
@@ -46,7 +36,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,flask,nodejs" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
 ### 🔹 Databases

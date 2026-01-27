@@ -14,12 +14,17 @@
   <img src="https://komarev.com/ghpvc/?username=Eren-KIRMIZI&color=blueviolet&style=flat"/>
 </p>
 
-<!-- Languages + Frameworks -->
+<!-- LANGUAGES -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,dotnet,flask,nodejs,docker,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css" />
 </p>
 
-<!-- Databases (Separated) -->
+<!-- FRAMEWORKS & TOOLS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,flask,nodejs,docker,git,github,vscode,visualstudio" />
+</p>
+
+<!-- DATABASES -->
 <p align="center">
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>

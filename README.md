@@ -166,19 +166,3 @@ personality_traits: ["🧠 Fast Learner", "💡 Solution-Oriented", "🔧 Hands-
 </p>
 
 <br/>
-
-<!-- Snake Animation -->
-![snake gif](https://github.com/Eren-KIRMIZI/Eren-KIRMIZI/blob/output/github-contribution-grid-snake.svg)
-
-<br/><br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/Eren-KIRMIZI">Eren KIRMIZI</a></sub>
-</div>

@@ -70,13 +70,15 @@ personality_traits: ["🧠 Fast Learner", "💡 Solution-Oriented", "🔧 Hands-
 ### 🔹 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,flask,nodejs" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
 ### 🔹 Databases
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
@@ -149,8 +151,9 @@ personality_traits: ["🧠 Fast Learner", "💡 Solution-Oriented", "🔧 Hands-
 ```typescript
 const skills = {
   languages: ['C#', 'Python'],
-  frameworks: ['.NET Core', 'ASP.NET'],
-  databases: ['MSSQL', 'SQLite'],
+  frameworks: ['.NET Core', 'ASP.NET', 'Flask'],
+  databases: ['MSSQL', 'MongoDB', 'SQLite'],
+  tools: ['Docker', 'Git'],
   architecture: ['RESTful APIs', 'MVC'],
   focus: 'Clean Code & Scalability'
 }
@@ -165,7 +168,8 @@ interests = {
     'ai_ml': ['Deep Learning', 'NLP'],
     'automation': ['Web Scraping', 'Bots'],
     'security': ['Application Security'],
-    'data': ['Analysis', 'Visualization']
+    'data': ['Analysis', 'Visualization'],
+    'devops': ['Containerization', 'CI/CD']
 }
 ```
 
@@ -186,7 +190,7 @@ interests = {
 
 ### 💭 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -222,11 +226,7 @@ interests = {
 <br/>
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eren-KIRMIZI/Eren-KIRMIZI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eren-KIRMIZI/Eren-KIRMIZI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eren-KIRMIZI/Eren-KIRMIZI/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/Eren-KIRMIZI/Eren-KIRMIZI/blob/output/github-contribution-grid-snake.svg)
 
 <br/><br/>
 

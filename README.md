@@ -105,18 +105,6 @@ personality_traits: ["🧠 Fast Learner", "💡 Solution-Oriented", "🔧 Hands-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eren-KIRMIZI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-KIRMIZI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eren-KIRMIZI&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eren-KIRMIZI&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
 ---
 
 <br/>
@@ -134,39 +122,6 @@ personality_traits: ["🧠 Fast Learner", "💡 Solution-Oriented", "🔧 Hands-
 <tr>
 <td width="50%" valign="top">
 
-### Backend Development
-```typescript
-const skills = {
-  languages: ['C#', 'Python'],
-  frameworks: ['.NET Core', 'ASP.NET', 'Flask'],
-  databases: ['MSSQL', 'MongoDB', 'SQLite'],
-  tools: ['Docker', 'Git'],
-  architecture: ['RESTful APIs', 'MVC'],
-  focus: 'Clean Code & Scalability'
-}
-```
-
-</td>
-<td width="50%" valign="top">
-
-### Learning & Growing
-```python
-interests = {
-    'ai_ml': ['Deep Learning', 'NLP'],
-    'automation': ['Web Scraping', 'Bots'],
-    'security': ['Application Security'],
-    'data': ['Analysis', 'Visualization'],
-    'devops': ['Containerization', 'CI/CD']
-}
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 ---
 

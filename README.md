@@ -141,28 +141,3 @@ personality_traits: ["🧠 Fast Learner", "💡 Solution-Oriented", "🔧 Hands-
 ---
 
 <br/>
-
-<!-- Call to Action -->
-<div align="center">
-
-## 🤝 Let's Build Something Amazing Together!
-
-<p>
-  <b>I'm always excited to collaborate on innovative projects and learn from experienced developers.</b><br/>
-  Whether it's an internship, junior role, or open-source contribution, let's connect!
-</p>
-
-<br/>
-
-### 📫 Reach Out
-
-<p>
-  <a href="https://www.linkedin.com/in/imeren/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Eren-KIRMIZI">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>

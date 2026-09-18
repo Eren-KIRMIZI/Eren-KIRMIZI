@@ -28,10 +28,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,supabase,firebase" />
 </p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-KIRMIZI&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</p>
-
-</div>

@@ -16,19 +16,17 @@
 
 <!-- LANGUAGES -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 <!-- FRAMEWORKS & TOOLS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,flask,nodejs,docker,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,nestjs,flutter,docker,github,vscode" />
 </p>
 
-<!-- DATABASES -->
+<!-- DATABASES & CLOUD -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,supabase,firebase" />
 </p>
 
 <!-- Most Used Languages -->
